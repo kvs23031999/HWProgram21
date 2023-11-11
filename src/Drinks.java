@@ -28,7 +28,7 @@ class Drinks {
                 System.out.println("Making mineral water...");
                 break;
             case COCA_COLA:
-                System.out.println("Making cola cola...");
+                System.out.println("Making coca cola...");
                 break;
             default:
                 System.out.println("Invalid drinks choice");
